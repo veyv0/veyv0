@@ -41,7 +41,7 @@ Open to **SOC L1 / Junior Security Analyst / internship** roles — Vilnius or r
 
 ### 🏅 TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Veyv.png)](https://tryhackme.com/p/Veyv)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Veyv-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Veyv)
 
 ### 📫 Contact
 
