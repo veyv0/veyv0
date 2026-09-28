@@ -45,4 +45,4 @@ Open to **SOC L1 / Junior Security Analyst / internship** roles — Vilnius or r
 
 ### 📫 Contact
 
-EMAIL
+veyv66@gmail.com
