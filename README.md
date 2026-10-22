@@ -22,12 +22,11 @@ Open to **SOC L1 / Junior Security Analyst / internship** roles — Vilnius or r
 
 ### 🗺️ Roadmap · Oct 2026 → Mar 2027
 
-- [ ] Networking, Linux, home lab · how LLM apps work, Gandalf
-- [ ] Windows, Active Directory, Sysmon, Python log parsing · OWASP LLM01–05
+- [x] Networking, Linux, home lab · how LLM apps work, Gandalf
+- [x] Windows, Active Directory, Sysmon, Python log parsing · OWASP LLM01–05
 - [ ] Wazuh + Splunk, detection rules mapped to MITRE ATT&CK · OWASP LLM06–10
 - [ ] SOC L1: triage, phishing, Sentinel / KQL · MITRE ATLAS, AI incident analysis
 - [ ] **ai-soc-triage** — LLM-assisted alert triage, red-teamed and monitored for prompt injection
-- [ ] ISC2 CC · CompTIA Security+ · EU AI Act / NIST AI RMF basics
 
 ### 🧰 Toolkit
 
