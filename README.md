@@ -1,15 +1,13 @@
 # Aleksandr | Security Analyst
 
-**Blue Team | AI Security | Security Automation**  
+**Junior Cybersecurity Specialist | Exploring AI Security | Python & Automation**  
 📍 Vilnius, Lithuania · 🗣️ Lithuanian (C1) · Russian (native) · English (B2)
 
-Building toward AI security from the defender's side: detecting, monitoring and containing
-attacks on LLM applications and AI agents. Starting with a SOC foundation — logs, SIEM,
-detection engineering — because you can't secure AI systems without it.
+Information Security student building practical skills through hands-on labs in networking, Linux, Windows, web security, and incident investigation.
 
-Background in customer support (ticket triage, escalations, SLA) and workflow automation
-(n8n, REST APIs, LLM integrations).
-Open to **SOC L1 / Junior Security Analyst / internship** roles — Vilnius or remote EU.
+My long-term focus is AI security — understanding vulnerabilities in LLM applications and AI agents, how to test them, and how to build effective protections. Currently exploring both offensive and defensive security.
+
+Open to **junior cybersecurity roles and internships** roles — Vilnius or remote EU.
 
 ---
 
@@ -20,13 +18,11 @@ Open to **SOC L1 / Junior Security Analyst / internship** roles — Vilnius or r
 | [security-lab](https://github.com/veyv0/security-lab) | Home SOC lab: architecture, network diagram, notes, detections | 🟢 active |
 | [ai-security-notes](https://github.com/veyv0/ai-security-notes) | OWASP LLM Top 10 from a defender's view: how each attack looks in logs and how to detect it | 🟢 active |
 
-### 🗺️ Roadmap · Oct 2026 → Mar 2027
+### 📚 Currently learning
 
-- [x] Networking, Linux, home lab · how LLM apps work, Gandalf
-- [x] Windows, Active Directory, Sysmon, Python log parsing · OWASP LLM01–05
-- [ ] Wazuh + Splunk, detection rules mapped to MITRE ATT&CK · OWASP LLM06–10
-- [ ] SOC L1: triage, phishing, Sentinel / KQL · MITRE ATLAS, AI incident analysis
-- [ ] **ai-soc-triage** — LLM-assisted alert triage, red-teamed and monitored for prompt injection
+- Preparing for CompTIA Security+
+- Developing web security and incident investigation skills through practical labs
+- Exploring LLM vulnerabilities, prompt injection, and AI agent security
 
 ### 🧰 Toolkit
 
